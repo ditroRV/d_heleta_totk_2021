@@ -47,7 +47,7 @@
 
 ![enter image description here](https://i.ibb.co/McYysDZ/123.png)
 
-3.1.  обудувати дерево шляхів рангом  `r=4`  для випадкового графа  `G={6,9}`.
+3.1.  Побудувати дерево шляхів рангом  `r=4`  для випадкового графа  `G={6,9}`.
 граф G:
 
 ![enter image description here](https://i.ibb.co/6X91VqH/G.png)

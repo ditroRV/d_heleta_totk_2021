@@ -29,7 +29,7 @@
 
 ![enter image description here](https://i.ibb.co/hDgJQf7/Screenshot-2.png)
 
-**i.** 1.  Побудувано дерево за алгоритмом обходу в ширину (BFS), починаючи з третьої вершини:
+**i.** Побудувано дерево за алгоритмом обходу в ширину (BFS), починаючи з третьої вершини:
 
 ![enter image description here](https://i.ibb.co/CwtYnRx/Screenshot-3.png)
 

@@ -60,6 +60,8 @@
 
 **4.** Побудувати мінімальне зв’язне дерево для графа G. Вказати його вагу.
 
+граф G:
+
 ![граф G](https://github.com/BobasB/lab_example/raw/master/lab_guidance/3_/images/graph.png)
 
 Мінімальне зв'язне дерево:
